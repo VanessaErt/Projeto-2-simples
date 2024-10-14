@@ -55,6 +55,12 @@ body {
     font-size: 1.2em;
 }
 
+.nav-item a.active {
+    color: #C7B084; 
+    font-weight: bold;
+    border-bottom: 2px solid #C7B084;
+}
+
 nav .menu-icon {
     cursor: pointer;
     display: none;
